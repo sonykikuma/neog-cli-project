@@ -2,16 +2,6 @@
 
     var score=0
     
-    var highscore=[
-        {
-            name:"Abha",
-            score:"4"
-        },
-        {
-            name:"Alisha",
-            score:3,
-        }
-    ]
     
     var allQuestions=[
         {
